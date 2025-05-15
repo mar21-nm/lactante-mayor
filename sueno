@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sueño del Lactante Mayor</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  <header class="header-colorful">
+    <h1>Sueño del Lactante Mayor</h1>
+    <p>La importancia del descanso para el desarrollo físico y emocional.</p>
+    <nav>
+      <ul class="nav-menu">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="que-es.html">¿Qué es?</a></li>
+        <li><a href="desarrollo.html">Desarrollo</a></li>
+        <li><a href="alimentacion.html">Alimentación</a></li>
+        <li><a href="sueno.html" class="active">Sueño</a></li>
+        <li><a href="afectivo.html">Vínculo Afectivo</a></li>
+        <li><a href="vacunas.html">Vacunas</a></li>
+        <li><a href="consejos.html">Consejos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>¿Cuánto debe dormir un lactante mayor?</h2>
+      <p>Un niño entre los 12 y 24 meses necesita entre **11 y 14 horas de sueño por día**, incluyendo una o dos siestas durante la jornada.</p>
+    </section>
+
+    <section class="color-block">
+      <h3>Rutinas que favorecen el sueño</h3>
+      <ul>
+        <li>Establece horarios fijos para dormir y despertar, incluso los fines de semana.</li>
+        <li>Crea una rutina nocturna tranquila: baño, cuento y caricias.</li>
+        <li>Evita pantallas, ruidos fuertes o juegos intensos antes de dormir.</li>
+        <li>Ofrece un objeto de apego (peluche o manta) si el niño lo desea.</li>
+      </ul>
+    </section>
+
+    <section class="color-block">
+      <h3>Problemas comunes y cómo abordarlos</h3>
+      <ul>
+        <li><strong>Despertares nocturnos:</strong> pueden deberse a miedo, sed, hambre o necesidad de consuelo. Mantén la calma y responde con suavidad.</li>
+        <li><strong>Negativa a dormir:</strong> suele estar relacionada con exceso de estimulación o necesidad de más contención emocional.</li>
+        <li><strong>Pesadillas o terrores nocturnos:</strong> son normales; acompáñalo sin regañar.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Ambiente ideal para dormir</h2>
+      <p>La habitación debe estar oscura, silenciosa, con una temperatura agradable. El colchón debe ser firme y seguro. Es recomendable que el niño duerma en su cuna o cama, sin almohadas ni juguetes grandes que puedan representar un riesgo.</p>
+    </section>
+
+    <section>
+      <img src="https://images.pexels.com/photos/3770580/pexels-photo-3770580.jpeg" alt="Niña durmiendo tranquila en su cuna" />
+    </section>
+  </main>
+
+  <footer class="footer-colorful">
+    <p>© 2025 Lactante Mayor • Sueño infantil saludable</p>
+  </footer>
+</body>
+</html>
