@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vínculo Afectivo del Lactante Mayor</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  <header class="header-colorful">
+    <h1>Vínculo Afectivo y Emocional</h1>
+    <p>La base del bienestar emocional y la seguridad futura del niño.</p>
+    <nav>
+      <ul class="nav-menu">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="que-es.html">¿Qué es?</a></li>
+        <li><a href="desarrollo.html">Desarrollo</a></li>
+        <li><a href="alimentacion.html">Alimentación</a></li>
+        <li><a href="sueno.html">Sueño</a></li>
+        <li><a href="afectivo.html" class="active">Vínculo Afectivo</a></li>
+        <li><a href="vacunas.html">Vacunas</a></li>
+        <li><a href="consejos.html">Consejos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>¿Por qué es tan importante el vínculo afectivo?</h2>
+      <p>Durante los primeros años de vida, el amor, la seguridad y el apego que recibe el niño tienen un impacto profundo en su desarrollo emocional, social y cerebral. El lactante mayor necesita sentir que es valorado, amado y protegido.</p>
+    </section>
+
+    <section class="color-block">
+      <h3>Formas de fortalecer el vínculo afectivo</h3>
+      <ul>
+        <li><strong>Contacto físico:</strong> abrazos, caricias, juegos cuerpo a cuerpo.</li>
+        <li><strong>Miradas y palabras:</strong> hablarle con cariño, usar su nombre, responder a sus gestos y balbuceos.</li>
+        <li><strong>Presencia activa:</strong> pasar tiempo de calidad, sin distracciones, en actividades como leer o jugar.</li>
+        <li><strong>Validación emocional:</strong> ayudarlo a identificar y expresar emociones (“estás triste”, “te asustaste”).</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>El rol del apego seguro</h2>
+      <p>Un apego seguro se construye cuando el niño sabe que sus cuidadores estarán disponibles cuando los necesite. Esto genera confianza, autoestima y mayor capacidad para relacionarse sanamente con otros en el futuro.</p>
+    </section>
+
+    <section class="color-block">
+      <h3>¿Qué evitar?</h3>
+      <ul>
+        <li>Gritar o castigar sin explicación.</li>
+        <li>Ignorar sus necesidades o emociones.</li>
+        <li>Dejarlo solo en momentos de angustia o llanto.</li>
+      </ul>
+    </section>
+
+    <section>
+      <img src="https://images.pexels.com/photos/3771676/pexels-photo-3771676.jpeg" alt="Madre abrazando a su hija con ternura" />
+    </section>
+  </main>
+
+  <footer class="footer-colorful">
+    <p>© 2025 Lactante Mayor • Vínculo emocional positivo para un desarrollo saludable</p>
+  </footer>
+</body>
+</html>
