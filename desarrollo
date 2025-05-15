@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Desarrollo del Lactante Mayor</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  <header class="header-colorful">
+    <h1>Desarrollo del Lactante Mayor</h1>
+    <p>Un periodo de crecimiento acelerado en todas las áreas: física, emocional y cognitiva.</p>
+    <nav>
+      <ul class="nav-menu">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="que-es.html">¿Qué es?</a></li>
+        <li><a href="desarrollo.html" class="active">Desarrollo</a></li>
+        <li><a href="alimentacion.html">Alimentación</a></li>
+        <li><a href="sueno.html">Sueño</a></li>
+        <li><a href="afectivo.html">Vínculo Afectivo</a></li>
+        <li><a href="vacunas.html">Vacunas</a></li>
+        <li><a href="consejos.html">Consejos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Hitos del desarrollo</h2>
+      <p>Entre los 12 y 24 meses, los niños experimentan un desarrollo notable que incluye grandes avances en su movilidad, pensamiento y comunicación. Aunque cada niño tiene su propio ritmo, algunos hitos comunes son:</p>
+    </section>
+
+    <section class="color-block">
+      <h3>Desarrollo físico y motor</h3>
+      <ul>
+        <li>Comienza a caminar solo, y hacia los 18 meses puede correr y subir escaleras.</li>
+        <li>Mejora el uso de las manos: puede apilar bloques, pasar páginas, sostener utensilios.</li>
+        <li>Comienza a coordinar movimientos más complejos como patear una pelota o trepar.</li>
+      </ul>
+    </section>
+
+    <section class="color-block">
+      <h3>Desarrollo cognitivo</h3>
+      <ul>
+        <li>Reconoce objetos y personas, incluso en fotos o ilustraciones.</li>
+        <li>Empieza a imitar acciones y juegos sencillos como hablar por teléfono de juguete.</li>
+        <li>Resuelve pequeños problemas y busca objetos escondidos.</li>
+      </ul>
+    </section>
+
+    <section class="color-block">
+      <h3>Lenguaje y comunicación</h3>
+      <ul>
+        <li>Comprende frases simples como “ven aquí” o “no toques eso”.</li>
+        <li>Utiliza de 10 a 50 palabras al llegar a los 24 meses.</li>
+        <li>Comienza a formar frases simples como “quiero agua”.</li>
+      </ul>
+    </section>
+
+    <section class="color-block">
+      <h3>Desarrollo emocional y social</h3>
+      <ul>
+        <li>Empieza a mostrar independencia (quiere hacer cosas solo).</li>
+        <li>Muestra afecto a familiares cercanos.</li>
+        <li>Puede tener berrinches al no lograr lo que desea o al frustrarse.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>¿Cómo estimular su desarrollo?</h2>
+      <p>Jugar con tu hijo, hablarle frecuentemente, leerle cuentos, permitirle explorar en un entorno seguro y mostrarle afecto constante son claves para potenciar su desarrollo integral.</p>
+    </section>
+
+    <section>
+      <img src="https://images.pexels.com/photos/3661350/pexels-photo-3661350.jpeg" alt="Bebé caminando con ayuda" />
+    </section>
+  </main>
+
+  <footer class="footer-colorful">
+    <p>© 2025 Lactante Mayor • Desarrollo infantil entre los 12 y 24 meses</p>
+  </footer>
+</body>
+</html>
