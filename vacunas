@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vacunas del Lactante Mayor</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  <header class="header-colorful">
+    <h1>Vacunas del Lactante Mayor</h1>
+    <p>Protección clave para su salud presente y futura.</p>
+    <nav>
+      <ul class="nav-menu">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="que-es.html">¿Qué es?</a></li>
+        <li><a href="desarrollo.html">Desarrollo</a></li>
+        <li><a href="alimentacion.html">Alimentación</a></li>
+        <li><a href="sueno.html">Sueño</a></li>
+        <li><a href="afectivo.html">Vínculo Afectivo</a></li>
+        <li><a href="vacunas.html" class="active">Vacunas</a></li>
+        <li><a href="consejos.html">Consejos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>¿Por qué son importantes las vacunas?</h2>
+      <p>Las vacunas protegen a los niños contra enfermedades graves y potencialmente mortales. Además, ayudan a prevenir brotes en la comunidad y fortalecen el sistema inmune.</p>
+    </section>
+
+    <section class="color-block">
+      <h3>Vacunas que recibe el lactante mayor (12-24 meses)</h3>
+      <ul>
+        <li><strong>Triple viral (SRP):</strong> protege contra sarampión, rubéola y paperas.</li>
+        <li><strong>Refuerzo de pentavalente:</strong> difteria, tétanos, tos convulsiva, hepatitis B y Haemophilus influenzae tipo b.</li>
+        <li><strong>Neumococo:</strong> refuerzo contra infecciones respiratorias graves.</li>
+        <li><strong>Hepatitis A:</strong> protección hepática a largo plazo (dependiendo del país).</li>
+        <li><strong>Varicela:</strong> si está incluida en el calendario nacional.</li>
+        <li><strong>Influenza:</strong> anual, especialmente en temporada de gripe.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Consejos para padres</h2>
+      <ul>
+        <li>Consulta el calendario de vacunación oficial del país.</li>
+        <li>Guarda siempre la cartilla o carnet de vacunación.</li>
+        <li>Si tu hijo tiene fiebre leve o resfriado, puede vacunarse igual (consulta con el profesional).</li>
+        <li>Las reacciones como fiebre leve o dolor en la zona son normales.</li>
+      </ul>
+    </section>
+
+    <section class="color-block">
+      <h3>¿Dónde vacunar?</h3>
+      <p>En centros de salud, hospitales públicos o clínicas privadas autorizadas. Las vacunas del calendario nacional son gratuitas.</p>
+    </section>
+
+    <section>
+      <img src="https://images.pexels.com/photos/6749770/pexels-photo-6749770.jpeg" alt="Enfermera aplicando vacuna a un bebé" />
+    </section>
+  </main>
+
+  <footer class="footer-colorful">
+    <p>© 2025 Lactante Mayor • Vacunas seguras, niños sanos</p>
+  </footer>
+</body>
+</html>
