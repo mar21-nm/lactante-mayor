@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Consejos para el Lactante Mayor</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  <header class="header-colorful">
+    <h1>Consejos para el Cuidado del Lactante Mayor</h1>
+    <p>Prácticas sencillas para promover su salud y felicidad.</p>
+    <nav>
+      <ul class="nav-menu">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="que-es.html">¿Qué es?</a></li>
+        <li><a href="desarrollo.html">Desarrollo</a></li>
+        <li><a href="alimentacion.html">Alimentación</a></li>
+        <li><a href="sueno.html">Sueño</a></li>
+        <li><a href="afectivo.html">Vínculo Afectivo</a></li>
+        <li><a href="vacunas.html">Vacunas</a></li>
+        <li><a href="consejos.html" class="active">Consejos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Consejos generales para cuidadores</h2>
+      <ul>
+        <li>Respetar el ritmo y las señales del niño.</li>
+        <li>Mantener una rutina diaria que incluya tiempo para juego, alimentación, descanso y cariño.</li>
+        <li>Evitar el uso excesivo de pantallas y fomentar actividades al aire libre.</li>
+        <li>Promover la autonomía poco a poco, permitiendo que explore y pruebe nuevas habilidades.</li>
+        <li>Comunicarte siempre con calma y paciencia, fomentando la confianza.</li>
+      </ul>
+    </section>
+
+    <section class="color-block">
+      <h3>Prevención y seguridad</h3>
+      <ul>
+        <li>Supervisar siempre al niño durante el juego.</li>
+        <li>Asegurar que el hogar sea un espacio seguro (protecciones en enchufes, objetos pequeños fuera de alcance).</li>
+        <li>Evitar dejar al niño solo en superficies altas o cerca del agua.</li>
+        <li>Enseñar poco a poco normas básicas de seguridad con lenguaje simple.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Fomentar el desarrollo social y emocional</h2>
+      <p>Invitar al niño a compartir, esperar su turno y expresar emociones con apoyo y guía. El juego con otros niños ayuda mucho en estas áreas.</p>
+    </section>
+
+    <section>
+      <img src="https://images.pexels.com/photos/3661199/pexels-photo-3661199.jpeg" alt="Padre jugando con su hijo pequeño al aire libre" />
+    </section>
+  </main>
+
+  <footer class="footer-colorful">
+    <p>© 2025 Lactante Mayor • Cuidado responsable y amoroso</p>
+  </footer>
+</body>
+</html>
