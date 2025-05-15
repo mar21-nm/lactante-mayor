@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Alimentación del Lactante Mayor</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  <header class="header-colorful">
+    <h1>Alimentación del Lactante Mayor</h1>
+    <p>La base para una nutrición sana, segura y adaptada a su etapa de crecimiento.</p>
+    <nav>
+      <ul class="nav-menu">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="que-es.html">¿Qué es?</a></li>
+        <li><a href="desarrollo.html">Desarrollo</a></li>
+        <li><a href="alimentacion.html" class="active">Alimentación</a></li>
+        <li><a href="sueno.html">Sueño</a></li>
+        <li><a href="afectivo.html">Vínculo Afectivo</a></li>
+        <li><a href="vacunas.html">Vacunas</a></li>
+        <li><a href="consejos.html">Consejos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>¿Qué debe comer un lactante mayor?</h2>
+      <p>A partir del año de vida, el niño puede comer casi todos los alimentos que consume la familia, con ciertas precauciones. Es importante que su alimentación sea variada, equilibrada, y rica en nutrientes esenciales.</p>
+    </section>
+
+    <section class="color-block">
+      <h3>Alimentos recomendados</h3>
+      <ul>
+        <li><strong>Frutas y verduras:</strong> fuente de vitaminas, fibra y antioxidantes.</li>
+        <li><strong>Cereales integrales:</strong> arroz, avena, pan y pastas sin azúcares añadidos.</li>
+        <li><strong>Legumbres:</strong> lentejas, garbanzos y porotos aportan proteínas y hierro.</li>
+        <li><strong>Carnes magras y huevo:</strong> fuentes de proteína de alta calidad.</li>
+        <li><strong>Lácteos:</strong> leche entera, yogur natural y queso en pequeñas porciones.</li>
+      </ul>
+    </section>
+
+    <section class="color-block">
+      <h3>Alimentos a evitar o limitar</h3>
+      <ul>
+        <li>Sal y azúcar en exceso.</li>
+        <li>Golosinas, refrescos y productos ultraprocesados.</li>
+        <li>Frutos secos enteros, por riesgo de atragantamiento.</li>
+        <li>Miel (no se recomienda antes de los 2 años por riesgo de botulismo).</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Consejos útiles para la alimentación</h2>
+      <ul>
+        <li>Ofrece los alimentos en trozos pequeños y fáciles de masticar.</li>
+        <li>No lo obligues a comer. Respeta su apetito y señales de saciedad.</li>
+        <li>Evita pantallas durante las comidas: favorece el contacto visual y el vínculo.</li>
+        <li>Establece horarios regulares de comida y snacks.</li>
+        <li>Incluye al niño en las comidas familiares para que imite buenos hábitos.</li>
+      </ul>
+    </section>
+
+    <section>
+      <img src="https://images.pexels.com/photos/4099235/pexels-photo-4099235.jpeg" alt="Bebé comiendo frutas en su silla" />
+    </section>
+  </main>
+
+  <footer class="footer-colorful">
+    <p>© 2025 Lactante Mayor • Alimentación saludable desde el primer año</p>
+  </footer>
+</body>
+</html>
