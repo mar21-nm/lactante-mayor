@@ -96,3 +96,11 @@ img {
 body {
   cursor: url('chupon1.png'), auto;
 }
+body,
+a,
+button,
+input,
+label,
+select {
+  cursor: url('chupon1.png'), auto;
+}
