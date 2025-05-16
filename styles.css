@@ -63,3 +63,33 @@ img {
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(58, 12, 163, 0.3);
 }
+.team-members {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  text-align: right;
+  max-width: 180px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  color: white;
+}
+
+.team-members strong {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.team-members ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.team-members ul li {
+  line-height: 1.3;
+}
